@@ -6,11 +6,15 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
 ### What I have Learned
 
 1. Challenges
+
   *Keep working at it
   *Take things bit by bit
+  
 2. Obstacles
+
   *Tempting diversions
   *Instant gratification monkey syndrome
+  
 3. Effort
   *
 
