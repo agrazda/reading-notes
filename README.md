@@ -5,25 +5,25 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
 # Growth Mindset
 ### What I have Learned
 
--[x] Challenges 
+- [x] Challenges 
 
--[x] Obstacles
+- [x] Obstacles
 
--[x] Effort
+- [x] Effort
 
--[x] Criticism
+- [x] Criticism
 
--[x] Success of others
+- [x] Success of others
 
--[x] Growing at work, and outside work too
+- [x] Growing at work, and outside work too
  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**My Growth Mindset Takeaways**
 
-# Header 1
+### Challenges
 ## Header 2
 ### Header 3
 
