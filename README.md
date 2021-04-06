@@ -21,11 +21,16 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
 ```markdown
 **My Growth Mindset Takeaways**
 
-I beleive that the growth mindset is a constant battle. It is something that must be fought  daily, hourly, and by the minute.
-Staying in a clear headspace is a difficult task. With good mental breaks and reminders, a growth mindset is acheivable. 
+I beleive that the growth mindset is a constant battle. It is something that must 
+be fought  daily, hourly, and by the minute. Staying in a clear headspace is a 
+difficult task. With good mental breaks and positive reinfocements, a growth mindset
+is acheivable. 
 
-- Bulleted
-- List
+# Challenges with Git Hub thus far
+
+- Getting commands to work in this highlighted area
+- Loading time for the main website to refresh
+
 
 1. Numbered
 2. List
@@ -35,12 +40,4 @@ Staying in a clear headspace is a difficult task. With good mental breaks and re
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agrazda/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
