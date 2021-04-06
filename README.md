@@ -1,8 +1,6 @@
 # Welcome to my Reading Notes Page
 
-Check out[my profile](https://github.com/agrazda/reading-notes)to see what I've been working on.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check out [my profile](https://github.com/agrazda/reading-notes) to see what I've been working on.
 
 ### Markdown
 
