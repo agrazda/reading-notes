@@ -1,5 +1,7 @@
 # Welcome to my Reading Notes Page
 
+## My Name is Alex Grazda. I am a Code Fellows Student learning some really cool stuff!
+
 Check out [my profile](https://github.com/agrazda/reading-notes) to see what I've been working on.
 
 # Growth Mindset
@@ -19,12 +21,18 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
  
 
 ```markdown
-**My Growth Mindset Takeaways**
+**_My Growth Mindset Takeaways
 
-I beleive that the growth mindset is a constant battle. It is something that must 
+I bleive that the growth mindset is a constant battle. It is something that must 
 be fought  daily, hourly, and by the minute. Staying in a clear headspace is a 
 difficult task. With good mental breaks and positive reinfocements, a growth mindset
 is acheivable. 
+
+**_Self Reminders for Good Growth Mindset
+
+1. Positive Reinforcement - Positive words of phrases in my office
+2. Take Breaks when at a road block
+3. Fdaily reminders of my accomplishments
 
 # Challenges with Git Hub thus far
 
@@ -32,12 +40,7 @@ is acheivable.
 - Loading time for the main website to refresh
 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
