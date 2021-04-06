@@ -1,6 +1,6 @@
 # Welcome to my Reading Notes Page
 
-## My Name is Alex Grazda. I am a Code Fellows Student learning some really cool stuff!
+My Name is Alex Grazda. I am a Code Fellows Student learning some really cool stuff!
 
 Check out [my profile](https://github.com/agrazda/reading-notes) to see what I've been working on.
 
