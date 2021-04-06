@@ -18,14 +18,11 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
 - [x] Growing at work, and outside work too
  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 **My Growth Mindset Takeaways**
 
-### Challenges
-## Header 2
-### Header 3
+I beleive that the growth mindset is a constant battle. It is something that must be fought  daily, hourly, and by the minute.
+Staying in a clear headspace is a difficult task. With good mental breaks and reminders, a growth mindset is acheivable. 
 
 - Bulleted
 - List
