@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to my Reading Notes Page
 
 You can use the [editor on GitHub](https://github.com/agrazda/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
