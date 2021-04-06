@@ -2,7 +2,10 @@
 
 Check out [my profile](https://github.com/agrazda/reading-notes) to see what I've been working on.
 
-### Markdown
+# Growth Mindset
+## What I have Learned
+
+1. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
