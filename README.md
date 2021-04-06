@@ -5,18 +5,14 @@ Check out [my profile](https://github.com/agrazda/reading-notes) to see what I'v
 # Growth Mindset
 ### What I have Learned
 
-1. Challenges
+-[x]Challenges 
 
-  *Keep working at it
-  *Take things bit by bit
-  
-2. Obstacles
+-[x]Obstacles
 
-  *Tempting diversions
-  *Instant gratification monkey syndrome
-  
-3. Effort
-  *
+-[x]Effort
+
+-[x]Criticism
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
