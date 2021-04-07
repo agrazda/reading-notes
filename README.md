@@ -27,6 +27,7 @@ I bleive that the growth mindset is a constant battle. It is something that must
 be fought  daily, hourly, and by the minute. Staying in a clear headspace is a 
 difficult task. With good mental breaks and positive reinfocements, a growth mindset
 is acheivable. 
+```
 
 **_Self Reminders for Good Growth Mindset
 
