@@ -31,7 +31,21 @@ Here are some options to Check out:
 When comparing different text editors, you have your "Basic" text editor which comes with your computer that has very few features. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package. A text editor kind of gives away what it does in the title—it edits text.
 
+# Files 
+### Everything is a file!
+- Linux is an extensionless System
+- Linuz is **cAsE** Sensitive (Beware of silly Typos)
+
 # TERMINAL CODE  
 - ls [options] [location]  =Current Location  
-- 
+- cd = catagory directory
+- pwd = print working directory
+
+# Paths  
+Absolute | Relative  
+A file or directory location in relation to the root of the file system. | A file or directory location relative to where we currently are in the file system.  
+
+
+# Pro Tips
+- Up and Down arrows will allow ou to search terminal history so you dont have to retype commands
 
