@@ -37,9 +37,14 @@ manager, a compiler, and a debugger all in one software package. A text editor k
 - Linuz is **cAsE** Sensitive (Beware of silly Typos)
 
 # TERMINAL CODE  
-- ls [options] [location]  =Current Location  
-- cd = catagory directory
-- pwd = print working directory
+- ls:
+>  [options] [location]  =Current Location  
+- cd
+> catagory directory
+- cd -
+> Back to Main Directory
+- pwd
+> print working directory
 
 # Paths  
 Absolute | Relative  
