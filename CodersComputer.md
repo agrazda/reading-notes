@@ -18,7 +18,7 @@ Here are some options to Check out:
    - Zoom in and out Features
 2. **TextWrangler / BB Edit**
    - Mac users Only
-     - Not much info on this one
+     - Not much info on this one 😕 
    - Paid Subscription
 3. **Visual Studio Code**
    - Windows, Mac, and Linox
@@ -30,3 +30,8 @@ Here are some options to Check out:
 
 When comparing different text editors, you have your "Basic" text editor which comes with your computer that has very few features. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package. A text editor kind of gives away what it does in the title—it edits text.
+
+# TERMINAL CODE  
+- ls [options] [location]  =Current Location  
+- 
+
