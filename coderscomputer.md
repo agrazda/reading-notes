@@ -37,14 +37,27 @@ manager, a compiler, and a debugger all in one software package. A text editor k
 - Linuz is **cAsE** Sensitive (Beware of silly Typos)
 
 # TERMINAL CODE  
-- ls:
->  [options] [location]  =Current Location  
-- cd
-> catagory directory
-- cd -
-> Back to Main Directory
 - pwd
-> print working directory
+Where am I in the system.
+- ls [path]
+> Perform a listing of the given path or your current directory.
+> Common options: -l, -h, -a
+- cd [path]
+> Change into the given path or into your home directory.
+- Path
+> A description of where a file or directory is on the filesystem.
+- Absolute Path
+> One beginning from the root of the file system (eg. /etc/sysconfig ).
+- Relative Path
+> One relative to where you currently are in the system (eg. Documents/music ).
+- ~ (tilde)
+> Used in paths as a reference to your home directory (eg. ~/Documents ).
+- . (dot)
+> Used in paths as a reference to your current directory (eg. ./bin ).
+- .. (dot dot)
+> Used in paths as a reference to your current directories parent directory (eg. ../bin ).
+- TAB completion
+> Start typing and press TAB. The system will auto complete the path. Press TAB twice and it will show you your alternatives.
 
 # Paths  
 Absolute | Relative  
@@ -53,4 +66,17 @@ A file or directory location in relation to the root of the file system. | A fil
 
 # Pro Tips
 - Up and Down arrows will allow ou to search terminal history so you dont have to retype commands
+
+Table of Contents  
+1. <a href="https://github.com/agrazda/reading-notes/blob/main/coderscomputer.md">The Coders Computer</a>  
+2. <a href="https://github.com/agrazda/reading-notes/blob/main/learning_markdown">Learning Markdown</a>  
+3. <a href="https://github.com/agrazda/reading-notes/blob/main/revisionsandthecloud.md">Revisions and The Cloud</a>  
+4. <a href="https://github.com/agrazda/reading-notes/blob/main/growthmindset.md">Growth Mindset</a>
+
+
+# Table of Contents
+1. [The Coders Computer](https://github.com/agrazda/reading-notes/blob/main/coderscomputer.md)
+2. [Learning Markdown](https://github.com/agrazda/reading-notes/blob/main/learning_markdown)
+3. [Revisions and The Cloud](https://github.com/agrazda/reading-notes/blob/main/revisionsandthecloud.md)
+4. [Growth Mindset](https://github.com/agrazda/reading-notes/blob/main/growthmindset.md)
 
