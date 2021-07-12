@@ -66,8 +66,15 @@ _HTML= HyperText Markup Language_
   - Doctypes: All pages should start with a doctype to tell the browser what version of html it is using.
   - Comments in HTML: (< !-- -->) Allows you to add a comment without showing on your webpage, can be viewed on source code
     - Always a good idea to comment on your code
-  - Id Attribute: (< p id="example">)Used to uniquely identify an element. Known as the "Global attribute" because it can be used on any element.
-  - Class Attribute
+  - Id Attribute: (< p id="example">)Used to uniquely identify one element. Known as the "Global attribute" because it can be used on any element.
+  - Class Attribute: Used to uniquely identify several element
+  - Block Elements: Appear to start a new line in a browser ex: List < li> Heading < h1> or a paragraph < p>
+  - Inline Elements: These will continue on the same line ex: **bold** < b>, _ _Italic_ _ < em>, or and image < img>
+  - Grouping in a Block: < div> Holds elements together or makes it easier to follow code.
+  - Grouping inline: < span> allows you to control these seperate elements in CSS and have specific value
+  - iFrame(inline frame): Enter a window into another page. Ex- a map. You can control the page it came from < src>, height and width.
+  - Info about your Page: &lt; meta &gt; Lives inside < head>. It is not visible to users but tells engines about your page.
+  - Escape Characters: use elements as examples of the code you are writing. 
 
 
 
