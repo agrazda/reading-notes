@@ -90,7 +90,11 @@ _HTML= HyperText Markup Language_
 - Sectioning: < div> 
 - Help Older Browsers understand: 
    
-
+## HTML Chapter 18 "Proccess & Design"
+   **Who is the site for?**
+   Every website should have a target audience!It is important to know who that is!
+   Ask yourself / client a series of questions about who they are trying to reach.
+   
 
 
 
