@@ -76,7 +76,20 @@ _HTML= HyperText Markup Language_
   - Info about your Page: &lt; meta &gt; Lives inside < head>. It is not visible to users but tells engines about your page.
   - Escape Characters: use elements as examples of the code you are writing. 
 
+## HTML Chapter 17 "HTML5 Layout"
 
+**Comparison**
+- Html5 has simplified div elements so that <div id=" " > is not required
+- Headers and Footers: Each article can have a header and footer
+- Navigation: < nav> Used for primary sit navigation, or bottom links
+- Article:  < article> Main contents of message
+- Asides: < aside> Easiestly explained as side notes to your articles.
+- sections: < sections> Group Realated items together
+- Heading Groups: < hgroups>
+- Figures: < figure> & < figcaption>
+- Sectioning: < div> 
+- Help Older Browsers understand: 
+   
 
 
 
