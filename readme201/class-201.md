@@ -29,4 +29,24 @@ Notes I have taken from reading.
    - Ta-Da... You see the website!!
 
 ## HTML Chapter 1: "Structure"
+_HTML= HyperText Markup Language_ 
+ 
+**How pages use structure**
+  - Heps readers understand the stories 
 
+**Structuring Word Documents** 
+  - Headings and Sub Headings reflect heirarchy of information.
+
+**HTML Describes the Structure of Pages** 
+  - HTML uses code to add structure to the words that appear on the page
+    - Tags
+      - <> = Opening tag
+      - </> = Closing tag
+      - The information between the tags tells the browser something about the information
+    - Attributes
+      - Sit inside tags to give additional information about the 
+      - Have a (name="value") inside a opening Tag (<>)
+    - Body, Head, Title
+      - < body> = Anything within the body tag will be displayed on the web browser
+      - < head> = This will be before the body containing information about the body
+      - < title> = Contents will appear at the top of the browser window
