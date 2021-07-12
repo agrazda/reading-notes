@@ -50,3 +50,8 @@ _HTML= HyperText Markup Language_
       - < body> = Anything within the body tag will be displayed on the web browser
       - < head> = This will be before the body containing information about the body
       - < title> = Contents will appear at the top of the browser window
+
+**How did they do that?**
+  -The best ways to find new tricks and tips is to check out a websites source code (f12) or (right click: View page source)
+  
+  
