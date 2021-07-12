@@ -54,4 +54,31 @@ _HTML= HyperText Markup Language_
 **How did they do that?**
   -The best ways to find new tricks and tips is to check out a websites source code (f12) or (right click: View page source)
   
-  
+## HTML Chapter 8: "Extra Markup"
+
+**HTML Evolution**
+  - Each new version was designed to improve the last.
+    - HTML4:Released in 1997 -The Elements in this book are all availible for HTML4
+    - XHTML 1.0: Released in 2000 - Strict rules (All used in this book) Works seamlessly with other programs
+    - HTML5: Not released - Authors do not need to close all tags, and new atributes and elements are to be added.
+
+**Extra Markup** 
+  - Doctypes: All pages should start with a doctype to tell the browser what version of html it is using.
+  - Comments in HTML: (< !-- -->) Allows you to add a comment without showing on your webpage, can be viewed on source code
+    - Always a good idea to comment on your code
+  - Id Attribute: (< p id="example">)Used to uniquely identify an element. Known as the "Global attribute" because it can be used on any element.
+  - Class Attribute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
