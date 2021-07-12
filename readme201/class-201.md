@@ -94,6 +94,21 @@ _HTML= HyperText Markup Language_
    **Who is the site for?**
    Every website should have a target audience!It is important to know who that is!
    Ask yourself / client a series of questions about who they are trying to reach.
+   - Country
+   - age
+   - ocupation
+   - salary
+    
+   **Why People visit you website**
+   - Motivations
+   - Goals
+   
+   The More you know about your audiance the better.
+   
+   **Wireframes**
+   This is a simple sketch of how you would like your 
+   
+   
    
 
 
