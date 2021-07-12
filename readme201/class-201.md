@@ -107,6 +107,9 @@ _HTML= HyperText Markup Language_
    
    **Wireframes**
    This is a simple sketch of how you would like your 
+
+   Checking terminal
+   
    
    
    
