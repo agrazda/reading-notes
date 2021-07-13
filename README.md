@@ -1,1 +1,35 @@
 ## Read Me Test
+
+### Table of Contents
+
+
+1.[Read: 01 - Introductory HTML and JavaScript](https://github.com/agrazda/reading-notes/blob/main/readme201/class-201.md)
+
+  
+2. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
+
+
+3. [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow]()
+
+4. [Read: 04 - HTML Links, CSS Layout, JS Functions]()
+    
+5. [Read: 05 - HTML Images; CSS Color & Text]()
+
+6. [Read: 06 - JS Object Literals; The DOM]()
+    
+7. [Read: 07 - HTML Tables; JS Constructor Functions]()
+    
+8. [Read: 08 - More CSS Layout]()
+
+9. [Read: 09 - Forms and Events]()
+
+10. [Read: 10 - JS Debugging]()
+
+11. [Read: 11 - Assorted Topics]()
+    
+12. [Read: 12 - Docs for the HTML < canvas> Element & Chart.js]()
+    
+13. [Read: 13 - Local Storage]()
+    
+14. [Read: 14a - CSS Transforms, Transitions, and Animations]()
+
