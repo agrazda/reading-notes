@@ -3,7 +3,7 @@
 ### Table of Contents
 
 
-1. [Read: 01 - Introductory HTML and JavaScript](./readme201/201read01.md)
+1. [Read: 01 - Introductory HTML and JavaScript](/readme201/201read01.md)
 
   
 2. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
