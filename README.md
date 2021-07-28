@@ -30,7 +30,8 @@
 12. [Read: 12 - Docs for the HTML < canvas> Element & Chart.js]()  
     REF: [Chart.JS](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/) BY SARA VIEIRA
     
-13. [Read: 13 - Local Storage]()
+13. [Read: 13 - Local Storage]()  
+    REF: [Local Storage](http://diveinto.html5doctor.com/storage.html)
     
 14. [Read: 14a - CSS Transforms, Transitions, and Animations]()
 
