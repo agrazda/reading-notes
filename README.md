@@ -33,5 +33,7 @@
 13. [Read: 13 - Local Storage]()  
     REF: [Local Storage](http://diveinto.html5doctor.com/storage.html)
     
-14. [Read: 14a - CSS Transforms, Transitions, and Animations]()
+14. [Read: 14a - CSS Transforms, Transitions, and Animations]()  
+    REF: [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  
+    REF: [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
