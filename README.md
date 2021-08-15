@@ -1,13 +1,12 @@
-## Read Me Test
+# This is where all of my Reading Notes Live
 
-### Table of Contents
-
+# Table of Contents
+--------------------------------------------
+## Class201 - Foundations Software Development
 
 1. [Read: 01 - Introductory HTML and JavaScript](/readme201/201read01.md)
 
-  
 2. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions]()
-
 
 3. [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow]()
 
@@ -37,3 +36,27 @@
     REF: [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  
     REF: [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
+-------------------------------------
+## 301 Intermediate Software Development'
+
+1. [Read: 01 - ]()
+
+2. [Read: 02 - ]()
+
+3. [Read: 03 - ]()
+
+4. [Read: 04 - ]()
+    
+5. [Read: 05 - ]()
+
+6. [Read: 06 - ]()
+    
+7. [Read: 07 - ]()
+    
+8. [Read: 08 - ]()
+
+9. [Read: 09 - ]()
+
+10. [Read: 10 - ]()
+
+11. [Read: 11 - ]()
