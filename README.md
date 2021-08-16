@@ -39,7 +39,10 @@
 -------------------------------------
 ## 301 Intermediate Software Development'
 
-1. [Read: 01 - ]()
+1. [Read: 01 -Introduction to React and Components ]()  
+## Refrences  
+[What is “Props” and how to use it in React?](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+[Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 2. [Read: 02 - ]()
 
